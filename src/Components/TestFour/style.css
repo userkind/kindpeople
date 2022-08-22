@@ -1,0 +1,11 @@
+.form-test {
+    box-shadow: 30px 30px 20px rgb(248, 194, 194);
+    margin: 26px 20px;
+    padding: 8%;
+    border: rgb(237, 211, 211) solid 4px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+h2{
+    margin-bottom: 10px;
+}
